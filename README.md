@@ -13,9 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Daniel Ben Avi
-[![image](https://img.shields.io/badge/LinkedIn-FFD43B?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/daniel-ben-avi-1b1b3b1b3/)
-[![image](https://img.shields.io/badge/GitHub-FFD43B?style=for-the-badge&logo=github&logoColor=blue)]()
+# Daniel Ben Avi - Software Engineer
+
+[![image](https://img.shields.io/badge/LinkedIn-FFD43B?style=for-the-badge&logo=linkedin&logoColor=blue&color=white)](https://www.linkedin.com/in/daniel-ben-avi-1b1b3b1b3/)
+[![image](https://img.shields.io/badge/GitHub-FFD43B?style=for-the-badge&logo=github&logoColor=white&color=black)]() 
+[![image](https://img.shields.io/badge/Email-FFD43B?style=for-the-badge&logo=gmail&logoColor=white&color=red)](daniel.ben.avi@gmail.com)
+
+![image](https://github-readme-streak-stats.herokuapp.com/?user=DanielBenAvi&theme=dark)
 
 ## About Me
 🎓 B.Sc in Software Engineering, Specializing in Mobile Software Development 📱
@@ -39,4 +43,10 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/Flask-FFD43B?style=for-the-badge&logo=flask&logoColor=white&color=blue)
 
 
-![image](https://github-readme-activity-graph.vercel.app/graph?username={DanielBenAvi})
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielBenAvi&theme=github_dark)
+
+
+
+
+
+

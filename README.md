@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 [![image](https://img.shields.io/badge/GitHub-FFD43B?style=for-the-badge&logo=github&logoColor=white&color=black)]() 
 [![image](https://img.shields.io/badge/Email-FFD43B?style=for-the-badge&logo=gmail&logoColor=white&color=red)](daniel.ben.avi@gmail.com)
 
-![image](https://github-readme-streak-stats.herokuapp.com/?user=DanielBenAvi&theme=dark)
+![image](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanielBenAvi&theme=github_dark)
+
 
 ## About Me
 🎓 B.Sc in Software Engineering, Specializing in Mobile Software Development 📱
@@ -44,9 +45,3 @@ Here are some ideas to get you started:
 
 
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielBenAvi&theme=github_dark)
-
-
-
-
-
-

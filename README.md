@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Daniel Ben Avi - Software Engineer
 
-[![image](https://img.shields.io/badge/LinkedIn-FFD43B?style=for-the-badge&logo=linkedin&logoColor=blue&color=white)]([https://www.linkedin.com/in/daniel-ben-avi-1b1b3b1b3/](https://www.linkedin.com/in/daniel-ben-avi-689803155/))
+[![image](https://img.shields.io/badge/LinkedIn-FFD43B?style=for-the-badge&logo=linkedin&logoColor=blue&color=white)]([](https://www.linkedin.com/in/daniel-ben-avi-689803155/))
 [![image](https://img.shields.io/badge/GitHub-FFD43B?style=for-the-badge&logo=github&logoColor=white&color=black)]() 
 [![image](https://img.shields.io/badge/Email-FFD43B?style=for-the-badge&logo=gmail&logoColor=white&color=red)](daniel.ben.avi@gmail.com)
 

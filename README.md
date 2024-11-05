@@ -46,8 +46,6 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/iOS-FFD43B?style=for-the-badge&logo=ios&logoColor=white&color=orange)
 ![image](https://img.shields.io/badge/Spring-FFD43B?style=for-the-badge&logo=spring&logoColor=white&color=green)
 ![image](https://img.shields.io/badge/Pygame-FFD43B?style=for-the-badge&logo=pygame&logoColor=white&color=blue)
-![image](https://img.shields.io/badge/Flask-FFD43B?style=for-the-badge&logo=flask&logoColor=white&color=blue)
-![image](https://img.shields.io/badge/Unity-FFD43B?style=for-the-badge&logo=unity&logoColor=white&color=black)
 
 ## Technologies
 <!-- git, docker, firebase, mysql, sqlite, mongodb -->

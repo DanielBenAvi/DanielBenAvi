@@ -34,6 +34,10 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/C%23-FFD43B?style=for-the-badge&logo=c-sharp&logoColor=white&color=blue)
 ![image](https://img.shields.io/badge/Dart-FFD43B?style=for-the-badge&logo=dart&logoColor=darkblue&color=blue)
 ![image](https://img.shields.io/badge/Swift-FFD43B?style=for-the-badge&logo=swift&logoColor=white&color=orange)
+![image](https://img.shields.io/badge/CSS-FFD43B?style=for-the-badge&logo=swift&logoColor=white&color=green)
+![image](https://img.shields.io/badge/HTML-FFD43B?style=for-the-badge&logo=swift&logoColor=white&color=green)
+
+
 
 ## Tools
 <!-- android, flutter, ios, spring, pygame, flask, unity-->
